@@ -1,1 +1,1 @@
-# MarketMaster
+Market Master is a market simulation game made to tackle the problem of financial illiteracy. It integrates robust economic theory into a captivating gaming experience that hones investing acumen. Check it out [HERE](https://marketmasterhack.netlify.app/)
